@@ -1,0 +1,10 @@
+C:\Users\msı\source\repos\PUSHHH!\PUSHHH!\bin\Debug\PUSHHH!.exe.config
+C:\Users\msı\source\repos\PUSHHH!\PUSHHH!\bin\Debug\PUSHHH!.exe
+C:\Users\msı\source\repos\PUSHHH!\PUSHHH!\bin\Debug\PUSHHH!.pdb
+C:\Users\msı\source\repos\PUSHHH!\PUSHHH!\obj\Debug\PUSHHH!.csproj.AssemblyReference.cache
+C:\Users\msı\source\repos\PUSHHH!\PUSHHH!\obj\Debug\PUSHHH_.AnaSayfa.resources
+C:\Users\msı\source\repos\PUSHHH!\PUSHHH!\obj\Debug\PUSHHH_.Properties.Resources.resources
+C:\Users\msı\source\repos\PUSHHH!\PUSHHH!\obj\Debug\PUSHHH!.csproj.GenerateResource.cache
+C:\Users\msı\source\repos\PUSHHH!\PUSHHH!\obj\Debug\PUSHHH!.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\PUSHHH!\PUSHHH!\obj\Debug\PUSHHH!.exe
+C:\Users\msı\source\repos\PUSHHH!\PUSHHH!\obj\Debug\PUSHHH!.pdb
